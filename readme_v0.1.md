@@ -1,4 +1,0 @@
-- Este programa se encarga de comunicarse entre la EDU-CIAA-NXP con la pantalla nextion.
-- Ademas, genera archivos .csv en un memoria SD, con un nombre con el siguiente formato BIPOLAR_X-X-X Y_Y_Y.csv, donde las X-X-X son el año mes y dia y las Y_Y_Y son la hora, el minuto y el segundo.
-- Este programa fue la presentacion del TP final del curso de Protocolos de comunicación.
-- Los datos mostrados en los graficos de Mod(F) y fase(F) son generados automaticamente desde la pantalla, no se transfieren desde la placa.
